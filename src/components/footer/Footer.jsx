@@ -4,7 +4,7 @@ import "./Footer.scss";
 function Footer() {
   return (
     <div className="footer">
-      {/* <div className="container">
+      <div className="container">
         <div className="top">
           <div className="item">
             <h2>Categories</h2>
@@ -90,7 +90,7 @@ function Footer() {
             <img src="/img/accessibility.png" alt="" />
           </div>
         </div>
-      </div> */}
+      </div>
     </div>
   );
 }
